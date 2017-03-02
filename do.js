@@ -52,7 +52,7 @@ extConfig,
 readyList = [],
 
 // DOM Ready
-isReady = false,
+isReady = true,
 
 // 模块间的公共数据 
 publicData = {},
